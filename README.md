@@ -1,2 +1,2 @@
-# GeeksForGeeks
-Solving
+# Blind75 Solving
+
